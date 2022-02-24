@@ -19,18 +19,23 @@ tie to authorization/authentication
 - copyright_holder ???
 - copyright_year
 - url
+
+#### picture_thumbnail
+
+- picture
+- media_type
 - thumbnail
 
 #### picture_relation
 
 - derived_picture (picture)
-- source_picture
+- source_picture (picture)
 - relation [improvement, variant, composition]
 - note
 
 #### picture_tag
 
-- picture
+- picture 
 - user
 - tag (string or fk?)
 
