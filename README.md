@@ -39,7 +39,7 @@ tie to authorization/authentication
 - user
 - tag (string or fk?)
 
-#### pricture_rating ???
+#### picture_rating ???
 
 - picture
 - user
